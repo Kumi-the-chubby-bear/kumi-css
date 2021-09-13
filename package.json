@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Kumi highlight css",
+  "main": "css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumi-the-chubby-bear/kumi-css.git"
+  },
+  "keywords": [
+    "Kumicss"
+  ],
+  "author": "ronnapatp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kumi-the-chubby-bear/kumi-css/issues"
+  },
+  "homepage": "https://github.com/Kumi-the-chubby-bear/kumi-css#readme"
+}
