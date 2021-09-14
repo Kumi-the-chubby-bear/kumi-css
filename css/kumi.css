@@ -48,3 +48,14 @@ at github.com/kumi-the-chubby-bear/Kumi-css/ Thanks for using kumi css*/
     color: #ff3c00;
 }
 
+.a-button{
+    background-color: #FACDD2;
+    color: #2D1B44;
+    border: 2px solid #F04178;
+}
+
+.a-button:hover{
+    background-color: #F04178;
+    color: #FACDD2;
+    border: 2px solid #2D1B44;
+}
