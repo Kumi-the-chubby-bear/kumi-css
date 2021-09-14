@@ -1,3 +1,50 @@
 /* This is kumi css for kumi website 
 You can use this for your project by seeing licence and How to use? in Readme file 
 at github.com/kumi-the-chubby-bear/Kumi-css/ Thanks for using kumi css*/
+
+/* We use mitr font */
+
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+* {
+    /* Base color */
+    color: #2D1B44;
+    /* Fonts */
+    font-family: 'Mitr', sans-serif;
+}
+
+/* Color section */
+
+.primary-color{
+    color: #FB7497;
+    /* R 256  G 116  B 151 */
+}
+
+.secondary-a-color{
+    color: #F04178;
+}
+
+.secondary-b-color{
+    color: #FACDD2;
+}
+
+.secondary-c-color{
+    color: #AFDCF0;
+}
+
+.secondary-d-color{
+    color: #7FA5E1;
+}
+
+.secondary-e-color{
+    color: #44D3B1;
+}
+
+.secondary-f-color{
+    color: #eea60b;
+}
+
+.secondary-g-color{
+    color: #ff3c00;
+}
+
